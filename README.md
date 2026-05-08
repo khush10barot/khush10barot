@@ -7,10 +7,9 @@ Currently seeking entry-level roles in software development or IT support in Can
 ---
 
 ## About Me
-- 🎓 Diploma in Computer Programming — Conestoga College (2026)
+- 🎓 Diploma in Computer Programming - Conestoga College (2026)
 - 📍 Ontario, Canada
 - 💼 Open to work — Software Developer / IT Support roles
-- 🛂 PGWP in progress — authorized to work in Canada without sponsorship
 
 ---
 
